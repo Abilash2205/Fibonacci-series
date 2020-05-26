@@ -1,0 +1,20 @@
+#python coding on Fibonacci series
+n=int(input(enter the end value of Fibonacci series"))
+a=0
+b=1
+Sum=0
+Count=1
+Print("The Fibonacci series until n is:")
+While(count<=n)
+Print(sum)
+a=b
+b=sum
+sum=a+b
+Count+=1
+
+
+
+Input:
+enter the end of Fibonacci series:13
+Output:
+0,1,1,2,3,5,8,13,21,34,55,89,144
